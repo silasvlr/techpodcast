@@ -2,7 +2,7 @@
 
   # Falei.Ai Podcast 🎙️
 
-Bem-vindo ao repositório oficial do **Falei.Ai**, um podcast sobre tecnologia, inteligência artificial e as inovações que estão moldando o mundo moderno! Aqui você vai encontrar os episódios e também aprender como criá-los do zero.
+Bem-vindo ao repositório desenvolvido na criação do **Falei.Ai**, um podcast sobre tecnologia, inteligência artificial e as inovações que estão moldando o mundo moderno! Aqui você vai encontrar os episódios e também aprender como criá-los do zero.
 
 ## Sobre o Podcast
 O **Falei.Ai** nasceu com o objetivo de descomplicar o universo da tecnologia e da IA, trazendo conteúdos dinâmicos, informativos e acessíveis. Nosso primeiro episódio aborda a história da inteligência artificial, suas vantagens, desafios e muito mais. 
