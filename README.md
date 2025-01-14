@@ -1,3 +1,5 @@
+<img src="https://github.com/silasvlr/techpodcast/blob/main/Imagem_capa_podcast.jpg" alt="Capa do Podcast" width="300" />
+
   # Falei.Ai Podcast 🎙️
 
 Bem-vindo ao repositório oficial do **Falei.Ai**, um podcast sobre tecnologia, inteligência artificial e as inovações que estão moldando o mundo moderno! Aqui você vai encontrar os episódios e também aprender como criá-los do zero.
